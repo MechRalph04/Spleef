@@ -1,6 +1,6 @@
 name: mcg76_Spleef
 version: 1.6.0
-api: 1.12.0
+api: 3.0.0-ALPHA4
 main: mcg76\game\spleef\SpleefPlugIn
 author: minecraftgenius76
 description: minecraftgenius76 Minigame Spleef 
